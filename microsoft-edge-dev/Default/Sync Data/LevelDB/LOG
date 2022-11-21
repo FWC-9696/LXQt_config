@@ -1,0 +1,6 @@
+2022/11/21-10:12:53.233 717 Reusing MANIFEST /home/fwc/.config/microsoft-edge-dev/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/11/21-10:12:53.233 717 Recovering log #3
+2022/11/21-10:12:53.235 717 Reusing old log /home/fwc/.config/microsoft-edge-dev/Default/Sync Data/LevelDB/000003.log 
+2022/11/21-10:14:16.772 8dc Level-0 table #5: started
+2022/11/21-10:14:16.778 8dc Level-0 table #5: 165388 bytes OK
+2022/11/21-10:14:16.784 8dc Delete type=0 #3
