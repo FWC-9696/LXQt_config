@@ -1,6 +1,0 @@
-2022/11/21-10:11:18.383 1e3a Reusing MANIFEST /home/fwc/.config/microsoft-edge-dev/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
-2022/11/21-10:11:18.384 1e3a Recovering log #3
-2022/11/21-10:11:18.385 1e3a Reusing old log /home/fwc/.config/microsoft-edge-dev/Default/EdgeCoupons/coupons_data.db/000003.log 
-2022/11/21-10:11:19.539 1e3f Level-0 table #5: started
-2022/11/21-10:11:19.546 1e3f Level-0 table #5: 785467 bytes OK
-2022/11/21-10:11:19.552 1e3f Delete type=0 #3

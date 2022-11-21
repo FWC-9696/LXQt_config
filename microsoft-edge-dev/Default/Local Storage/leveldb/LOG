@@ -1,6 +1,0 @@
-2022/11/21-10:12:53.216 3 Reusing MANIFEST /home/fwc/.config/microsoft-edge-dev/Default/Local Storage/leveldb/MANIFEST-000001
-2022/11/21-10:12:53.218 3 Recovering log #3
-2022/11/21-10:12:53.219 3 Reusing old log /home/fwc/.config/microsoft-edge-dev/Default/Local Storage/leveldb/000003.log 
-2022/11/21-10:15:21.809 3 Level-0 table #5: started
-2022/11/21-10:15:21.839 3 Level-0 table #5: 1221902 bytes OK
-2022/11/21-10:15:21.847 3 Delete type=0 #3
